@@ -1,4 +1,6 @@
 # Research Reaction Time
+<img width="1280" height="784" alt="image" src="https://github.com/user-attachments/assets/1e6872d5-c7ad-44bb-a408-61bc6dd61dd7" />
+
 
 ESP32 reaction-time experiment built with ESP-IDF. The app turns on an LED after a random preparation delay, timestamps a button press in a GPIO interrupt, and reports both human reaction time and ISR-to-task wake latency.
 
