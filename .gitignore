@@ -1,0 +1,13 @@
+# ESP-IDF build output
+build/
+managed_components/
+dependencies.lock
+
+# Editor and OS noise
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local SDK defaults can vary by machine.
+sdkconfig.old
